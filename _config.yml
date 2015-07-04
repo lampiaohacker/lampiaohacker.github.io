@@ -2,14 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+url: http://lampiaohacker.github.io
+title: Lampião Hacker Clube
+email: lampiaohacker@gmail.com
+author: Lampião Hacker
+description: > # "Um hackerspace é um local real com o formato de um laboratório
+    comunitário que segue a ética hacker, tendo espírito agregador, convergente
+    e inspirador. Nele, pessoas com interesses em comum, normalmente em ciência,
+    tecnologia, arte digital ou eletronica podem se encontrar, socializar e
+    colaborar."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -25,8 +26,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/lampiaohacker
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/lampiaohacker
+  - title: facebook
+    url: https://www.facebook.com/groups/lampiaohacker/
