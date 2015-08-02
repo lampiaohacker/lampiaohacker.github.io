@@ -12,4 +12,4 @@ Para isso precisamos do apoio da comunidade na criação desse ambiente aberto e
 colaborativo. [Conheça outras iniciativas semelhantes no Brasil.](https://garoa.net.br/wiki/Hackerspaces_Brasileiros)
 
 [Tem interesse? Entre em contato conosco e vamos tornar
-esse sonho realidade!](#contact)
+esse sonho realidade!](https://groups.google.com/forum/#!forum/lampiao-hacker-clube)
